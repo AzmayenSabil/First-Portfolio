@@ -1,10 +1,10 @@
-# This is a non responsive portfolio of mine .
+This is a non responsive portfolio of mine .
 
 Technologies used;
---> HTML
---> CSS
+--> # HTML
+--> # CSS
 
-# Made this portfolio website to practice HTML and CSS
+Made this portfolio website to practice HTML and CSS
 
 
 --------------
